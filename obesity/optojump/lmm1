@@ -1,7 +1,0 @@
-,0,1,2,3
-0,Model:,MixedLM,Dependent Variable:,val
-1,No. Observations:,1520,Method:,REML
-2,No. Groups:,40,Scale:,0.0392
-3,Min. group size:,38,Log-Likelihood:,169.7028
-4,Max. group size:,38,Converged:,Yes
-5,Mean group size:,38.0,,
